@@ -1,60 +1,5 @@
 [
   {
-    "company": "Heron",
-    "domain": "",
-    "fund": "I",
-    "stage": "seed",
-    "category": "TBD",
-    "as_of": "2026-07-14",
-    "coverage": "external_v0",
-    "confidence": "low",
-    "lanes": {
-      "scout": {
-        "score": null,
-        "evidence": [
-          "No category data yet"
-        ],
-        "sources": []
-      },
-      "analyst": {
-        "score": null,
-        "evidence": [
-          "No growth proxy data"
-        ],
-        "sources": []
-      },
-      "diligence": {
-        "score": 75,
-        "evidence": [
-          "No risk events detected"
-        ],
-        "sources": [
-          "default_baseline"
-        ]
-      },
-      "product": {
-        "score": null,
-        "evidence": [
-          "No shipping data"
-        ],
-        "sources": []
-      },
-      "finance": {
-        "score": null,
-        "evidence": [
-          "No Form D filings found"
-        ],
-        "sources": [
-          "SEC EDGAR"
-        ],
-        "watch": false,
-        "months_since_raise": null
-      }
-    },
-    "composite": 75.0,
-    "flags": []
-  },
-  {
     "company": "Vergo",
     "domain": "getvergo.com",
     "fund": "I",
@@ -79,13 +24,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -97,17 +40,23 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2021-12-10 by Vergo Technology Inc (New York, NY) \u2014 WATCH: 55 months since last raise (threshold: 24mo for seed)"
         ],
         "sources": [
           "SEC EDGAR"
         ],
-        "watch": false,
-        "months_since_raise": null
+        "watch": true,
+        "months_since_raise": 55
       }
     },
-    "composite": 75.0,
-    "flags": []
+    "composite": null,
+    "flags": [
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2021-12-10 by Vergo Technology Inc (New York, NY) \u2014 WATCH: 55 months since last raise (threshold: 24mo for seed)",
+        "severity": "watch"
+      }
+    ]
   },
   {
     "company": "Pylon",
@@ -134,13 +83,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -152,16 +99,16 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2025-09-05 by Pylon Labs, Inc. (San Francisco, CA); Form D filed 2024-06-18 by Pylon Labs, Inc. (San Francisco, CA); Form D filed 2023-04-20 by Pylon Labs, Inc. (San Francisco, CA) \u2014 OK: 10 months since last raise"
         ],
         "sources": [
           "SEC EDGAR"
         ],
         "watch": false,
-        "months_since_raise": null
+        "months_since_raise": 10
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -189,13 +136,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -216,7 +161,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -244,13 +189,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -271,7 +214,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -299,13 +242,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -326,7 +267,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -354,13 +295,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -372,16 +311,16 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2024-10-25 by Inspectify, Inc. (Sherman Oaks, CA); Form D filed 2021-11-15 by Inspectify, Inc. (Sherman Oaks, CA) \u2014 OK: 20 months since last raise"
         ],
         "sources": [
           "SEC EDGAR"
         ],
         "watch": false,
-        "months_since_raise": null
+        "months_since_raise": 20
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -409,13 +348,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -427,17 +364,23 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2022-02-09 by Seel Inc. (San Francisco, CA) \u2014 WATCH: 53 months since last raise (threshold: 36mo for series_a)"
         ],
         "sources": [
           "SEC EDGAR"
         ],
-        "watch": false,
-        "months_since_raise": null
+        "watch": true,
+        "months_since_raise": 53
       }
     },
-    "composite": 75.0,
-    "flags": []
+    "composite": null,
+    "flags": [
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2022-02-09 by Seel Inc. (San Francisco, CA) \u2014 WATCH: 53 months since last raise (threshold: 36mo for series_a)",
+        "severity": "watch"
+      }
+    ]
   },
   {
     "company": "Nickel",
@@ -464,13 +407,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -482,71 +423,16 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2025-10-23 by Nickel Technology Inc. (Brooklyn, NY) \u2014 OK: 8 months since last raise"
         ],
         "sources": [
           "SEC EDGAR"
         ],
         "watch": false,
-        "months_since_raise": null
+        "months_since_raise": 8
       }
     },
-    "composite": 75.0,
-    "flags": []
-  },
-  {
-    "company": "Stell Engines",
-    "domain": "stell-engines.com",
-    "fund": "II",
-    "stage": "pre_seed",
-    "category": "Vertical SaaS",
-    "as_of": "2026-07-14",
-    "coverage": "external_v0",
-    "confidence": "low",
-    "lanes": {
-      "scout": {
-        "score": null,
-        "evidence": [
-          "No category data yet"
-        ],
-        "sources": []
-      },
-      "analyst": {
-        "score": null,
-        "evidence": [
-          "No growth proxy data"
-        ],
-        "sources": []
-      },
-      "diligence": {
-        "score": 75,
-        "evidence": [
-          "No risk events detected"
-        ],
-        "sources": [
-          "default_baseline"
-        ]
-      },
-      "product": {
-        "score": null,
-        "evidence": [
-          "No shipping data"
-        ],
-        "sources": []
-      },
-      "finance": {
-        "score": null,
-        "evidence": [
-          "No Form D filings found"
-        ],
-        "sources": [
-          "SEC EDGAR"
-        ],
-        "watch": false,
-        "months_since_raise": null
-      }
-    },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -574,13 +460,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -592,16 +476,16 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2025-08-07 by Beam Technologies Inc. (Columbus, OH); Form D filed 2024-05-15 by Beam Technologies Inc. (Columbus, OH); Form D filed 2023-09-19 by Beam Technologies Inc. (Columbus, OH) \u2014 OK: 11 months since last raise"
         ],
         "sources": [
           "SEC EDGAR"
         ],
         "watch": false,
-        "months_since_raise": null
+        "months_since_raise": 11
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -629,13 +513,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -647,17 +529,23 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2021-07-12 by Loop Data, Inc. (Mill Valley, CA) \u2014 WATCH: 60 months since last raise (threshold: 36mo for series_a)"
         ],
         "sources": [
           "SEC EDGAR"
         ],
-        "watch": false,
-        "months_since_raise": null
+        "watch": true,
+        "months_since_raise": 60
       }
     },
-    "composite": 75.0,
-    "flags": []
+    "composite": null,
+    "flags": [
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2021-07-12 by Loop Data, Inc. (Mill Valley, CA) \u2014 WATCH: 60 months since last raise (threshold: 36mo for series_a)",
+        "severity": "watch"
+      }
+    ]
   },
   {
     "company": "Autolist",
@@ -684,13 +572,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -711,7 +597,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -739,13 +625,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -766,7 +650,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -794,13 +678,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -821,7 +703,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -849,13 +731,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -876,7 +756,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -904,13 +784,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -931,7 +809,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -959,13 +837,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -986,7 +862,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -1014,13 +890,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1041,7 +915,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -1069,13 +943,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1096,7 +968,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -1124,13 +996,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1142,17 +1012,23 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2022-03-24 by Focal App, Inc. (Boulder, CO); Form D filed 2022-03-02 by Focal App, Inc. (Boulder, CO); Form D filed 2021-05-25 by Focal App, Inc. (Boulder, CO) \u2014 WATCH: 52 months since last raise (threshold: 24mo for seed)"
         ],
         "sources": [
           "SEC EDGAR"
         ],
-        "watch": false,
-        "months_since_raise": null
+        "watch": true,
+        "months_since_raise": 52
       }
     },
-    "composite": 75.0,
-    "flags": []
+    "composite": null,
+    "flags": [
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2022-03-24 by Focal App, Inc. (Boulder, CO); Form D filed 2022-03-02 by Focal App, Inc. (Boulder, CO); Form D filed 2021-05-25 by Focal App, Inc. (Boulder, CO) \u2014 WATCH: 52 months since last raise (threshold: 24mo for seed)",
+        "severity": "watch"
+      }
+    ]
   },
   {
     "company": "BC Block",
@@ -1179,13 +1055,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1206,7 +1080,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -1234,13 +1108,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1261,7 +1133,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -1289,13 +1161,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1316,13 +1186,13 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
     "company": "Emanate AI",
     "domain": "emanate.ai",
-    "fund": "",
+    "fund": "III",
     "stage": "seed",
     "category": "AI / Manufacturing",
     "as_of": "2026-07-14",
@@ -1344,13 +1214,11 @@
         "sources": []
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1371,7 +1239,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 75.0,
+    "composite": null,
     "flags": []
   },
   {
@@ -1382,7 +1250,7 @@
     "category": "B2B Marketplace",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1401,13 +1269,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1419,17 +1285,23 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2021-10-22 by Beacon Platform Inc (New York, NY) \u2014 WATCH: 57 months since last raise (threshold: 24mo for seed)"
         ],
         "sources": [
           "SEC EDGAR"
         ],
-        "watch": false,
-        "months_since_raise": null
+        "watch": true,
+        "months_since_raise": 57
       }
     },
-    "composite": 65.0,
-    "flags": []
+    "composite": 55.0,
+    "flags": [
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2021-10-22 by Beacon Platform Inc (New York, NY) \u2014 WATCH: 57 months since last raise (threshold: 24mo for seed)",
+        "severity": "watch"
+      }
+    ]
   },
   {
     "company": "Cedar Money",
@@ -1439,7 +1311,7 @@
     "category": "B2B Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1458,13 +1330,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1485,7 +1355,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -1496,7 +1366,7 @@
     "category": "B2B Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1515,13 +1385,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1533,17 +1401,23 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2021-10-08 by Vesta Creeks Run, LLC (Blue Bell, PA) \u2014 WATCH: 58 months since last raise (threshold: 36mo for series_a)"
         ],
         "sources": [
           "SEC EDGAR"
         ],
-        "watch": false,
-        "months_since_raise": null
+        "watch": true,
+        "months_since_raise": 58
       }
     },
-    "composite": 65.0,
-    "flags": []
+    "composite": 55.0,
+    "flags": [
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2021-10-08 by Vesta Creeks Run, LLC (Blue Bell, PA) \u2014 WATCH: 58 months since last raise (threshold: 36mo for series_a)",
+        "severity": "watch"
+      }
+    ]
   },
   {
     "company": "Culdesac",
@@ -1553,7 +1427,7 @@
     "category": "Proptech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1574,13 +1448,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1601,7 +1473,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -1612,7 +1484,7 @@
     "category": "B2B Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1631,13 +1503,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1658,7 +1528,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -1669,7 +1539,7 @@
     "category": "B2C Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1688,13 +1558,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1706,17 +1574,84 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2024-07-31 by UniFi, LLC (Chevy Chase, MD) \u2014 WATCH: 23 months since last raise (threshold: 18mo for pre_seed)"
         ],
         "sources": [
           "SEC EDGAR"
         ],
-        "watch": false,
-        "months_since_raise": null
+        "watch": true,
+        "months_since_raise": 23
       }
     },
-    "composite": 65.0,
-    "flags": []
+    "composite": 55.0,
+    "flags": [
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2024-07-31 by UniFi, LLC (Chevy Chase, MD) \u2014 WATCH: 23 months since last raise (threshold: 18mo for pre_seed)",
+        "severity": "watch"
+      }
+    ]
+  },
+  {
+    "company": "Stell Engineering",
+    "domain": "stell-engineering.com",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Vertical SaaS",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": 55,
+        "evidence": [
+          "Current headcount: ~27"
+        ],
+        "sources": [
+          "linkedin"
+        ]
+      },
+      "diligence": {
+        "score": null,
+        "evidence": [
+          "No risk data collected"
+        ],
+        "sources": []
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "Form D filed 2024-03-13 by Stell Engineering, Inc. (Marina Del Rey, CA) \u2014 WATCH: 28 months since last raise (threshold: 18mo for pre_seed)"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": true,
+        "months_since_raise": 28
+      }
+    },
+    "composite": 55.0,
+    "flags": [
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2024-03-13 by Stell Engineering, Inc. (Marina Del Rey, CA) \u2014 WATCH: 28 months since last raise (threshold: 18mo for pre_seed)",
+        "severity": "watch"
+      }
+    ]
   },
   {
     "company": "Clifton API",
@@ -1726,7 +1661,7 @@
     "category": "B2B Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1745,13 +1680,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1772,7 +1705,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -1783,7 +1716,7 @@
     "category": "B2B Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1802,13 +1735,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1829,7 +1760,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -1840,7 +1771,7 @@
     "category": "Ecommerce",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1859,13 +1790,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1877,17 +1806,23 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2023-05-26 by Checkmate Savings, Inc. (Santa Monica, CA) \u2014 WATCH: 38 months since last raise (threshold: 18mo for pre_seed)"
         ],
         "sources": [
           "SEC EDGAR"
         ],
-        "watch": false,
-        "months_since_raise": null
+        "watch": true,
+        "months_since_raise": 38
       }
     },
-    "composite": 65.0,
-    "flags": []
+    "composite": 55.0,
+    "flags": [
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2023-05-26 by Checkmate Savings, Inc. (Santa Monica, CA) \u2014 WATCH: 38 months since last raise (threshold: 18mo for pre_seed)",
+        "severity": "watch"
+      }
+    ]
   },
   {
     "company": "Cargado",
@@ -1897,7 +1832,7 @@
     "category": "Freight",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1916,13 +1851,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1934,16 +1867,16 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2025-04-07 by Cargado, Inc. (Chicago, IL); Form D filed 2024-04-04 by Cargado, Inc. (Chicago, IL) \u2014 OK: 15 months since last raise"
         ],
         "sources": [
           "SEC EDGAR"
         ],
         "watch": false,
-        "months_since_raise": null
+        "months_since_raise": 15
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -1954,7 +1887,7 @@
     "category": "Healthtech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -1973,13 +1906,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -1991,16 +1922,16 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2025-05-15 by Corner Health Platform, Inc. (Santa Monica, CA) \u2014 OK: 14 months since last raise"
         ],
         "sources": [
           "SEC EDGAR"
         ],
         "watch": false,
-        "months_since_raise": null
+        "months_since_raise": 14
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -2011,7 +1942,7 @@
     "category": "B2C Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2030,13 +1961,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2048,16 +1977,16 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2026-07-10 by Frontlands, Inc. (Dallas, TX); Form D filed 2025-12-22 by Frontlands, Inc. (Dallas, TX) \u2014 OK: 0 months since last raise"
         ],
         "sources": [
           "SEC EDGAR"
         ],
         "watch": false,
-        "months_since_raise": null
+        "months_since_raise": 0
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -2068,7 +1997,7 @@
     "category": "Vertical SaaS",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2087,13 +2016,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2114,7 +2041,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -2125,7 +2052,7 @@
     "category": "Legaltech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2144,13 +2071,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2171,7 +2096,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -2182,7 +2107,7 @@
     "category": "B2B Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2201,13 +2126,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2228,7 +2151,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -2239,7 +2162,7 @@
     "category": "AI",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2258,13 +2181,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2285,7 +2206,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 65.0,
+    "composite": 55.0,
     "flags": []
   },
   {
@@ -2296,7 +2217,7 @@
     "category": "Web3",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2315,13 +2236,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2342,7 +2261,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 63.5,
+    "composite": 52.0,
     "flags": [
       {
         "lane": "analyst",
@@ -2359,7 +2278,7 @@
     "category": "B2C Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2378,13 +2297,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2405,7 +2322,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 63.5,
+    "composite": 52.0,
     "flags": [
       {
         "lane": "analyst",
@@ -2422,7 +2339,7 @@
     "category": "Supply Chain",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2441,13 +2358,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2468,7 +2383,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 63.5,
+    "composite": 52.0,
     "flags": [
       {
         "lane": "analyst",
@@ -2485,7 +2400,7 @@
     "category": "B2B Fintech",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2504,13 +2419,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2522,16 +2435,16 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2025-04-09 by Friday Harbor, Inc. (Seattle, WA) \u2014 OK: 15 months since last raise"
         ],
         "sources": [
           "SEC EDGAR"
         ],
         "watch": false,
-        "months_since_raise": null
+        "months_since_raise": 15
       }
     },
-    "composite": 63.5,
+    "composite": 52.0,
     "flags": [
       {
         "lane": "analyst",
@@ -2548,7 +2461,7 @@
     "category": "AI / Security",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2567,13 +2480,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2594,7 +2505,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 63.5,
+    "composite": 52.0,
     "flags": [
       {
         "lane": "analyst",
@@ -2611,7 +2522,7 @@
     "category": "AI / Commerce",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2630,13 +2541,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2657,7 +2566,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 63.5,
+    "composite": 52.0,
     "flags": [
       {
         "lane": "analyst",
@@ -2674,7 +2583,7 @@
     "category": "Freight",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2693,13 +2602,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2720,7 +2627,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 62.5,
+    "composite": 50.0,
     "flags": [
       {
         "lane": "analyst",
@@ -2737,7 +2644,7 @@
     "category": "Supply Chain",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2756,13 +2663,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2774,20 +2679,25 @@
       "finance": {
         "score": null,
         "evidence": [
-          "No Form D filings found"
+          "Form D filed 2024-05-22 by freightmate Ai, Inc. (Bellevue, WA) \u2014 WATCH: 26 months since last raise (threshold: 18mo for pre_seed)"
         ],
         "sources": [
           "SEC EDGAR"
         ],
-        "watch": false,
-        "months_since_raise": null
+        "watch": true,
+        "months_since_raise": 26
       }
     },
-    "composite": 62.5,
+    "composite": 50.0,
     "flags": [
       {
         "lane": "analyst",
         "reason": "Score 50 below 55 \u2014 watch",
+        "severity": "watch"
+      },
+      {
+        "lane": "finance",
+        "reason": "Form D filed 2024-05-22 by freightmate Ai, Inc. (Bellevue, WA) \u2014 WATCH: 26 months since last raise (threshold: 18mo for pre_seed)",
         "severity": "watch"
       }
     ]
@@ -2800,7 +2710,7 @@
     "category": "Proptech / AI",
     "as_of": "2026-07-14",
     "coverage": "external_v0",
-    "confidence": "med",
+    "confidence": "low",
     "lanes": {
       "scout": {
         "score": null,
@@ -2819,13 +2729,11 @@
         ]
       },
       "diligence": {
-        "score": 75,
+        "score": null,
         "evidence": [
-          "No risk events detected"
+          "No risk data collected"
         ],
-        "sources": [
-          "default_baseline"
-        ]
+        "sources": []
       },
       "product": {
         "score": null,
@@ -2846,7 +2754,7 @@
         "months_since_raise": null
       }
     },
-    "composite": 62.5,
+    "composite": 50.0,
     "flags": [
       {
         "lane": "analyst",
