@@ -1,0 +1,2752 @@
+[
+  {
+    "company": "Heron",
+    "domain": "",
+    "fund": "I",
+    "stage": "seed",
+    "category": "TBD",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Beacon",
+    "domain": "viabeacon.com",
+    "fund": "I",
+    "stage": "seed",
+    "category": "B2B Marketplace",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Vergo",
+    "domain": "getvergo.com",
+    "fund": "I",
+    "stage": "seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Pylon",
+    "domain": "pylonlending.com",
+    "fund": "I",
+    "stage": "seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "OAK Network",
+    "domain": "oak.tech",
+    "fund": "I",
+    "stage": "seed",
+    "category": "Web3",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Nuvo",
+    "domain": "nuvo.credit",
+    "fund": "I",
+    "stage": "seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Ansa",
+    "domain": "ansa.dev",
+    "fund": "I",
+    "stage": "seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "On Order",
+    "domain": "onorder.co",
+    "fund": "II",
+    "stage": "seed",
+    "category": "Vertical SaaS",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Cedar Money",
+    "domain": "cedarmoney.com",
+    "fund": "II",
+    "stage": "seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Inspectify",
+    "domain": "inspectify.com",
+    "fund": "I",
+    "stage": "series_a",
+    "category": "B2B Marketplace",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Seel",
+    "domain": "seel.com",
+    "fund": "I",
+    "stage": "series_a",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Vesta",
+    "domain": "usevesta.com",
+    "fund": "I",
+    "stage": "series_a",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Culdesac",
+    "domain": "culdesac.com",
+    "fund": "I",
+    "stage": "series_a",
+    "category": "Proptech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Pine",
+    "domain": "pine.ca",
+    "fund": "I",
+    "stage": "series_a",
+    "category": "B2C Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Topkey",
+    "domain": "topkey.io",
+    "fund": "I",
+    "stage": "pre_seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Nickel",
+    "domain": "getnickel.com",
+    "fund": "I",
+    "stage": "pre_seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "UniFi",
+    "domain": "unifi.co",
+    "fund": "I",
+    "stage": "pre_seed",
+    "category": "B2C Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Stell Engines",
+    "domain": "stell-engines.com",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Vertical SaaS",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Clifton API",
+    "domain": "cliftonapi.com",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Linc AI",
+    "domain": "linc-ai.com",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Freight",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Beam",
+    "domain": "beam.banking",
+    "fund": "II",
+    "stage": "seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Coast Pay",
+    "domain": "coastpay.com",
+    "fund": "I",
+    "stage": "series_a",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Loop",
+    "domain": "loop.com",
+    "fund": "I",
+    "stage": "series_a",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Checkmate",
+    "domain": "checkmate.io",
+    "fund": "I",
+    "stage": "pre_seed",
+    "category": "Ecommerce",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Cargado",
+    "domain": "cargado.com",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Freight",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Autolist",
+    "domain": "autolist.ai",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Ecommerce",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Corner Health",
+    "domain": "cornerhealth.com",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Healthtech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Dutywise",
+    "domain": "dutywise.com",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Supply Chain",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "FreightMate",
+    "domain": "freightmate.ai",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Supply Chain",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Frontlands",
+    "domain": "frontlands.co",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "B2C Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "GetmyHomeAi",
+    "domain": "getmyhomeai.com",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Proptech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Steward",
+    "domain": "",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Aravolta",
+    "domain": "",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Vertical SaaS",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Ponte",
+    "domain": "ponte.app",
+    "fund": "II",
+    "stage": "seed",
+    "category": "B2B Marketplace",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Escargot",
+    "domain": "",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "B2C Marketplace",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Friday Harbor",
+    "domain": "fridayharbor.co",
+    "fund": "II",
+    "stage": "seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Atomic Canyon",
+    "domain": "atomiccanyon.com",
+    "fund": "II",
+    "stage": "seed",
+    "category": "Vertical SaaS",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Mithra AI",
+    "domain": "mithra.co",
+    "fund": "III",
+    "stage": "seed",
+    "category": "B2B Marketing",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Rebolt HQ",
+    "domain": "rebolthq.com",
+    "fund": "III",
+    "stage": "seed",
+    "category": "B2B Marketing",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "MigrateMate",
+    "domain": "migratemate.io",
+    "fund": "III",
+    "stage": "seed",
+    "category": "Legaltech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Focal",
+    "domain": "",
+    "fund": "III",
+    "stage": "seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Human Delta",
+    "domain": "humandelta.ai",
+    "fund": "III",
+    "stage": "pre_seed",
+    "category": "AI / Security",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "BC Block",
+    "domain": "",
+    "fund": "III",
+    "stage": "seed",
+    "category": "AI",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "General Intelligence",
+    "domain": "",
+    "fund": "III",
+    "stage": "pre_seed",
+    "category": "B2B Marketing",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Rubicon",
+    "domain": "",
+    "fund": "III",
+    "stage": "seed",
+    "category": "B2B Fintech",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Mason AI",
+    "domain": "usemason.ai",
+    "fund": "III",
+    "stage": "seed",
+    "category": "Proptech / AI",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Nyne AI",
+    "domain": "nyne.ai",
+    "fund": "III",
+    "stage": "seed",
+    "category": "AI",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Rama",
+    "domain": "tryrama.com",
+    "fund": "III",
+    "stage": "seed",
+    "category": "AI / Commerce",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "American Turbine",
+    "domain": "americanturbine.com",
+    "fund": "III",
+    "stage": "seed",
+    "category": "Industrial",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  },
+  {
+    "company": "Emanate AI",
+    "domain": "emanate.ai",
+    "fund": "",
+    "stage": "seed",
+    "category": "AI / Manufacturing",
+    "as_of": "2026-07-14",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": []
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "No growth proxy data"
+        ],
+        "sources": []
+      },
+      "diligence": {
+        "score": 75,
+        "evidence": [
+          "No risk events detected"
+        ],
+        "sources": [
+          "default_baseline"
+        ]
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": []
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": 75.0,
+    "flags": []
+  }
+]
