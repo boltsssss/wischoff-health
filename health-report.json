@@ -57,7 +57,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Pylon",
@@ -111,7 +112,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Nuvo",
@@ -165,7 +167,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Ansa",
@@ -219,7 +222,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "On Order",
@@ -273,7 +277,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Inspectify",
@@ -327,7 +332,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Seel",
@@ -387,7 +393,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Nickel",
@@ -441,7 +448,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Beam",
@@ -495,7 +503,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Loop",
@@ -555,7 +564,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Autolist",
@@ -609,7 +619,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "GetmyHomeAi",
@@ -663,7 +674,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Steward",
@@ -717,7 +729,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Aravolta",
@@ -771,7 +784,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Ponte",
@@ -825,7 +839,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Escargot",
@@ -879,7 +894,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Mithra AI",
@@ -933,7 +949,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Rebolt HQ",
@@ -987,7 +1004,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Focal",
@@ -1047,7 +1065,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "BC Block",
@@ -1101,7 +1120,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "General Intelligence",
@@ -1155,7 +1175,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "American Turbine",
@@ -1209,7 +1230,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Emanate AI",
@@ -1263,7 +1285,8 @@
     },
     "composite": null,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Beacon",
@@ -1325,7 +1348,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Cedar Money",
@@ -1381,7 +1405,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Vesta",
@@ -1443,7 +1468,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Culdesac",
@@ -1501,7 +1527,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Topkey",
@@ -1557,7 +1584,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "UniFi",
@@ -1619,7 +1647,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Stell Engineering",
@@ -1681,7 +1710,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Clifton API",
@@ -1737,7 +1767,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Coast Pay",
@@ -1793,7 +1824,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Checkmate",
@@ -1855,7 +1887,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Cargado",
@@ -1911,7 +1944,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Corner Health",
@@ -1967,7 +2001,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Frontlands",
@@ -2023,7 +2058,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Atomic Canyon",
@@ -2079,7 +2115,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "MigrateMate",
@@ -2135,7 +2172,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Rubicon",
@@ -2191,7 +2229,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Nyne AI",
@@ -2247,7 +2286,8 @@
     },
     "composite": 55.0,
     "flags": [],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "OAK Network",
@@ -2309,7 +2349,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Pine",
@@ -2371,7 +2412,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Dutywise",
@@ -2433,7 +2475,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Friday Harbor",
@@ -2495,7 +2538,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Human Delta",
@@ -2557,7 +2601,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Rama",
@@ -2619,7 +2664,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Linc AI",
@@ -2681,7 +2727,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "FreightMate",
@@ -2748,7 +2795,8 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   },
   {
     "company": "Mason AI",
@@ -2810,6 +2858,7 @@
         "severity": "watch"
       }
     ],
-    "generated": "2026-07-14T17:27:49Z"
+    "generated": "2026-07-14T17:27:49Z",
+    "run": 3
   }
 ]
