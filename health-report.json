@@ -5,10 +5,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Marketplace",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -17,28 +17,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~10 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -60,10 +66,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -72,28 +78,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -103,7 +113,7 @@
         "sources": [
           "SEC EDGAR"
         ],
-        "match_confidence": "name_match",
+        "match_confidence": "name_only",
         "watch": true,
         "months_since_raise": 55
       }
@@ -123,10 +133,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -135,28 +145,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -166,7 +180,7 @@
         "sources": [
           "SEC EDGAR"
         ],
-        "match_confidence": "name_match",
+        "match_confidence": "name_only",
         "watch": false,
         "months_since_raise": 10
       }
@@ -180,10 +194,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "Web3",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -192,28 +206,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~9 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -235,10 +255,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -247,28 +267,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -290,10 +314,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -302,28 +326,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -345,10 +373,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "Vertical SaaS",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -357,28 +385,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -400,10 +432,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -412,28 +444,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~21 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -455,10 +493,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Marketplace",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -467,28 +505,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -512,10 +554,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -524,28 +566,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -575,10 +621,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -587,28 +633,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~101 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -625,15 +677,15 @@
     "flags": []
   },
   {
-    "company": "Pine",
-    "domain": "pine.ca",
+    "company": "Culdesac",
+    "domain": "culdesac.com",
     "fund": "I",
     "stage": "series_a",
-    "category": "B2C Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "category": "Proptech",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -642,28 +694,103 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
-        "score": null,
+        "score": 50,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~42 (single snapshot, no slope yet)",
+          "1 open roles (selective hiring)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin",
+          "lever"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "No Form D filings found"
+        ],
+        "sources": [],
+        "match_confidence": null,
+        "watch": false,
+        "months_since_raise": null
+      }
+    },
+    "composite": null,
+    "flags": [
+      {
+        "lane": "analyst",
+        "reason": "Score 50 below 55 \u2014 watch",
+        "severity": "watch"
+      }
+    ]
+  },
+  {
+    "company": "Pine",
+    "domain": "pine.ca",
+    "fund": "I",
+    "stage": "series_a",
+    "category": "B2C Fintech",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": [],
+        "match_confidence": null
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "Current headcount: ~8 (single LinkedIn snapshot, no slope yet)"
+        ],
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
+      },
+      "diligence": {
+        "score": null,
+        "evidence": [
+          "No risk data collected"
+        ],
+        "sources": [],
+        "match_confidence": null
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -685,10 +812,10 @@
     "fund": "I",
     "stage": "pre_seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -697,28 +824,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~28 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -740,10 +873,10 @@
     "fund": "I",
     "stage": "pre_seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -752,28 +885,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -783,7 +920,7 @@
         "sources": [
           "SEC EDGAR"
         ],
-        "match_confidence": "name_match",
+        "match_confidence": "name_only",
         "watch": false,
         "months_since_raise": 8
       }
@@ -797,10 +934,10 @@
     "fund": "I",
     "stage": "pre_seed",
     "category": "B2C Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -809,28 +946,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~17 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -860,10 +1003,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Vertical SaaS",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -872,28 +1015,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~27 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -903,7 +1052,7 @@
         "sources": [
           "SEC EDGAR"
         ],
-        "match_confidence": "name_match",
+        "match_confidence": "name_only",
         "watch": true,
         "months_since_raise": 28
       }
@@ -923,10 +1072,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -935,28 +1084,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~22 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -978,10 +1133,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Freight",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -990,28 +1145,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~4 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1033,10 +1194,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1045,28 +1206,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1090,10 +1255,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1102,28 +1267,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~178 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1145,10 +1316,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1157,28 +1328,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1200,10 +1375,10 @@
     "fund": "I",
     "stage": "pre_seed",
     "category": "Ecommerce",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1212,28 +1387,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~232 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1255,10 +1436,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Freight",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1267,28 +1448,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~47 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1312,10 +1499,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Ecommerce",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1324,28 +1511,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1362,15 +1553,15 @@
     "flags": []
   },
   {
-    "company": "Dutywise",
-    "domain": "dutywise.com",
+    "company": "Corner Health",
+    "domain": "cornerhealth.com",
     "fund": "II",
     "stage": "pre_seed",
-    "category": "Supply Chain",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "category": "Healthtech",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1379,28 +1570,97 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
-        "score": null,
+        "score": 55,
         "evidence": [
-          "No growth proxy data"
+          "6 open roles (moderate hiring)"
         ],
-        "sources": []
+        "sources": [
+          "lever"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
+      },
+      "finance": {
+        "score": null,
+        "evidence": [
+          "Form D filed 2025-05-15 by Corner Health Platform, Inc. (Santa Monica, CA) \u2014 OK: 14 months since last raise"
+        ],
+        "sources": [
+          "SEC EDGAR"
+        ],
+        "match_confidence": "name_only",
+        "watch": false,
+        "months_since_raise": 14
+      }
+    },
+    "composite": null,
+    "flags": []
+  },
+  {
+    "company": "Dutywise",
+    "domain": "dutywise.com",
+    "fund": "II",
+    "stage": "pre_seed",
+    "category": "Supply Chain",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
+    "coverage": "external_v0",
+    "confidence": "low",
+    "lanes": {
+      "scout": {
+        "score": null,
+        "evidence": [
+          "No category data yet"
+        ],
+        "sources": [],
+        "match_confidence": null
+      },
+      "analyst": {
+        "score": null,
+        "evidence": [
+          "Current headcount: ~8 (single LinkedIn snapshot, no slope yet)"
+        ],
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
+      },
+      "diligence": {
+        "score": null,
+        "evidence": [
+          "No risk data collected"
+        ],
+        "sources": [],
+        "match_confidence": null
+      },
+      "product": {
+        "score": null,
+        "evidence": [
+          "No shipping data"
+        ],
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1422,10 +1682,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Supply Chain",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1434,28 +1694,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~1 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1485,10 +1751,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "B2C Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1497,28 +1763,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~13 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1542,10 +1814,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Proptech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1554,28 +1826,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1597,10 +1873,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1609,28 +1885,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1652,10 +1932,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Vertical SaaS",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1664,28 +1944,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1707,10 +1991,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "B2B Marketplace",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1719,28 +2003,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1762,10 +2050,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "B2C Marketplace",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1774,28 +2062,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1817,10 +2109,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1829,28 +2121,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~9 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1860,7 +2158,7 @@
         "sources": [
           "SEC EDGAR"
         ],
-        "match_confidence": "name_match",
+        "match_confidence": "name_only",
         "watch": false,
         "months_since_raise": 15
       }
@@ -1874,10 +2172,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "Vertical SaaS",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1886,28 +2184,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~23 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1929,10 +2233,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "B2B Marketing",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1941,28 +2245,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -1984,10 +2292,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "B2B Marketing",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1996,28 +2304,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2039,10 +2351,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "Legaltech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2051,28 +2363,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~10 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2094,10 +2412,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2106,28 +2424,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2137,7 +2459,7 @@
         "sources": [
           "SEC EDGAR"
         ],
-        "match_confidence": "name_match",
+        "match_confidence": "name_only",
         "watch": true,
         "months_since_raise": 52
       }
@@ -2157,10 +2479,10 @@
     "fund": "III",
     "stage": "pre_seed",
     "category": "AI / Security",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2169,28 +2491,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~7 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2212,10 +2540,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "AI",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2224,28 +2552,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2267,10 +2599,10 @@
     "fund": "III",
     "stage": "pre_seed",
     "category": "B2B Marketing",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2279,28 +2611,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2322,10 +2658,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2334,28 +2670,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~25 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2377,10 +2719,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "Proptech / AI",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2389,28 +2731,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~1 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2432,10 +2780,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "AI",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2444,28 +2792,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~11 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2487,10 +2841,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "AI / Commerce",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2499,28 +2853,34 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
-          "No growth proxy data"
+          "Current headcount: ~7 (single LinkedIn snapshot, no slope yet)"
         ],
-        "sources": []
+        "sources": [
+          "linkedin"
+        ],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2542,10 +2902,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "Industrial",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2554,28 +2914,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2597,10 +2961,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "AI / Manufacturing",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
+    "as_of": "2026-07-16",
+    "run": 6,
+    "commit": "f9140d1",
+    "generated": "2026-07-16T22:47:56Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2609,28 +2973,32 @@
         "evidence": [
           "No category data yet"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "analyst": {
         "score": null,
         "evidence": [
           "No growth proxy data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": "name_only"
       },
       "diligence": {
         "score": null,
         "evidence": [
           "No risk data collected"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "product": {
         "score": null,
         "evidence": [
           "No shipping data"
         ],
-        "sources": []
+        "sources": [],
+        "match_confidence": null
       },
       "finance": {
         "score": null,
@@ -2644,122 +3012,6 @@
       }
     },
     "composite": null,
-    "flags": []
-  },
-  {
-    "company": "Corner Health",
-    "domain": "cornerhealth.com",
-    "fund": "II",
-    "stage": "pre_seed",
-    "category": "Healthtech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
-    "coverage": "external_v0",
-    "confidence": "low",
-    "lanes": {
-      "scout": {
-        "score": null,
-        "evidence": [
-          "No category data yet"
-        ],
-        "sources": []
-      },
-      "analyst": {
-        "score": 55,
-        "evidence": [
-          "6 open roles (moderate hiring)"
-        ],
-        "sources": [
-          "lever"
-        ]
-      },
-      "diligence": {
-        "score": null,
-        "evidence": [
-          "No risk data collected"
-        ],
-        "sources": []
-      },
-      "product": {
-        "score": null,
-        "evidence": [
-          "No shipping data"
-        ],
-        "sources": []
-      },
-      "finance": {
-        "score": null,
-        "evidence": [
-          "Form D filed 2025-05-15 by Corner Health Platform, Inc. (Santa Monica, CA) \u2014 OK: 14 months since last raise"
-        ],
-        "sources": [
-          "SEC EDGAR"
-        ],
-        "match_confidence": "name_match",
-        "watch": false,
-        "months_since_raise": 14
-      }
-    },
-    "composite": 55.0,
-    "flags": []
-  },
-  {
-    "company": "Culdesac",
-    "domain": "culdesac.com",
-    "fund": "I",
-    "stage": "series_a",
-    "category": "Proptech",
-    "as_of": "2026-07-14",
-    "run": 5,
-    "commit": "73f95aa",
-    "generated": "2026-07-14T20:59:57Z",
-    "coverage": "external_v0",
-    "confidence": "low",
-    "lanes": {
-      "scout": {
-        "score": null,
-        "evidence": [
-          "No category data yet"
-        ],
-        "sources": []
-      },
-      "analyst": {
-        "score": 50,
-        "evidence": [
-          "1 open roles (selective hiring)"
-        ],
-        "sources": [
-          "lever"
-        ]
-      },
-      "diligence": {
-        "score": null,
-        "evidence": [
-          "No risk data collected"
-        ],
-        "sources": []
-      },
-      "product": {
-        "score": null,
-        "evidence": [
-          "No shipping data"
-        ],
-        "sources": []
-      },
-      "finance": {
-        "score": null,
-        "evidence": [
-          "No Form D filings found"
-        ],
-        "sources": [],
-        "match_confidence": null,
-        "watch": false,
-        "months_since_raise": null
-      }
-    },
-    "composite": 50.0,
     "flags": []
   }
 ]
