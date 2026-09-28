@@ -5,10 +5,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Marketplace",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -69,10 +69,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -137,10 +137,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -199,10 +199,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "Web3",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -259,10 +259,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -319,10 +319,10 @@
     "fund": "I",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -379,10 +379,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "Vertical SaaS",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -439,10 +439,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -499,10 +499,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Marketplace",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -561,10 +561,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -629,10 +629,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -672,14 +672,14 @@
       "finance": {
         "score": null,
         "evidence": [
-          "Form D filed 2026-06-23 by Vesta Co-Invest, L.P. (Birmingham, AL); Form D filed 2026-06-23 by Vesta Co-Invest, L.P. (Birmingham, AL) \u2014 OK: 3 months since last raise"
+          "Form D filed 2026-09-25 by Vesta Hearth Inc. (New York City, NY); Form D filed 2026-09-25 by Vesta Hearth Inc. (New York City, NY) \u2014 OK: 0 months since last raise"
         ],
         "sources": [
           "SEC EDGAR"
         ],
         "match_confidence": "name_only",
         "watch": false,
-        "months_since_raise": 3
+        "months_since_raise": 0
       }
     },
     "composite": null,
@@ -691,10 +691,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "Proptech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -707,12 +707,14 @@
         "match_confidence": null
       },
       "analyst": {
-        "score": null,
+        "score": 50,
         "evidence": [
-          "LinkedIn match failed domain validation \u2014 LinkedIn website culdesac.es != registry culdesac.com"
+          "2 open roles (selective hiring)"
         ],
-        "sources": [],
-        "match_confidence": "rejected",
+        "sources": [
+          "lever"
+        ],
+        "match_confidence": "name_only",
         "has_headcount_slope": false
       },
       "diligence": {
@@ -751,10 +753,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2C Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -811,10 +813,10 @@
     "fund": "I",
     "stage": "pre_seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -829,7 +831,7 @@
       "analyst": {
         "score": 65,
         "evidence": [
-          "Headcount growing at 6.4%/mo (healthy for pre_seed)"
+          "Headcount growing at 5.8%/mo (healthy for pre_seed)"
         ],
         "sources": [
           "linkedin"
@@ -873,10 +875,10 @@
     "fund": "I",
     "stage": "pre_seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -935,10 +937,10 @@
     "fund": "I",
     "stage": "pre_seed",
     "category": "B2C Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1003,10 +1005,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Vertical SaaS",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1019,9 +1021,9 @@
         "match_confidence": null
       },
       "analyst": {
-        "score": 35,
+        "score": 45,
         "evidence": [
-          "Headcount DECLINING at -1.7%/mo"
+          "Headcount stagnant at 0.0%/mo"
         ],
         "sources": [
           "linkedin"
@@ -1061,16 +1063,6 @@
     "composite": null,
     "flags": [
       {
-        "lane": "analyst",
-        "reason": "Score 35 below 40 threshold",
-        "severity": "alert"
-      },
-      {
-        "lane": "analyst",
-        "reason": "Headcount DECLINING at -1.7%/mo",
-        "severity": "alert"
-      },
-      {
         "lane": "finance",
         "reason": "Form D filed 2024-03-13 by Stell Engineering, Inc. (Marina Del Rey, CA) \u2014 WATCH: 30 months since last raise (threshold: 18mo for pre_seed)",
         "severity": "watch"
@@ -1083,10 +1075,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1143,10 +1135,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Freight",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1203,10 +1195,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1265,10 +1257,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1283,7 +1275,7 @@
       "analyst": {
         "score": 55,
         "evidence": [
-          "Headcount flat/slow at 1.3%/mo"
+          "Headcount flat/slow at 1.2%/mo"
         ],
         "sources": [
           "linkedin"
@@ -1327,10 +1319,10 @@
     "fund": "I",
     "stage": "series_a",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1387,10 +1379,10 @@
     "fund": "I",
     "stage": "pre_seed",
     "category": "Ecommerce",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1449,10 +1441,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Freight",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1467,7 +1459,7 @@
       "analyst": {
         "score": 35,
         "evidence": [
-          "Headcount DECLINING at -2.9%/mo"
+          "Headcount DECLINING at -3.5%/mo"
         ],
         "sources": [
           "linkedin"
@@ -1513,7 +1505,7 @@
       },
       {
         "lane": "analyst",
-        "reason": "Headcount DECLINING at -2.9%/mo",
+        "reason": "Headcount DECLINING at -3.5%/mo",
         "severity": "alert"
       }
     ]
@@ -1524,10 +1516,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Ecommerce",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1584,10 +1576,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Healthtech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1602,7 +1594,7 @@
       "analyst": {
         "score": 50,
         "evidence": [
-          "2 open roles (selective hiring)"
+          "4 open roles (selective hiring)"
         ],
         "sources": [
           "lever"
@@ -1648,10 +1640,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Supply Chain",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1710,10 +1702,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Supply Chain",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1778,10 +1770,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "B2C Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1840,10 +1832,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Proptech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1900,10 +1892,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -1960,10 +1952,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "Vertical SaaS",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2020,10 +2012,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "B2B Marketplace",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2080,10 +2072,10 @@
     "fund": "II",
     "stage": "pre_seed",
     "category": "B2C Marketplace",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2140,10 +2132,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2202,10 +2194,10 @@
     "fund": "II",
     "stage": "seed",
     "category": "Vertical SaaS",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2262,10 +2254,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "B2B Marketing",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2322,10 +2314,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "B2B Marketing",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2382,10 +2374,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "Legaltech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2442,10 +2434,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2510,10 +2502,10 @@
     "fund": "III",
     "stage": "pre_seed",
     "category": "AI / Security",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2528,7 +2520,7 @@
       "analyst": {
         "score": 35,
         "evidence": [
-          "Headcount DECLINING at -6.4%/mo"
+          "Headcount DECLINING at -11.6%/mo"
         ],
         "sources": [
           "linkedin"
@@ -2572,7 +2564,7 @@
       },
       {
         "lane": "analyst",
-        "reason": "Headcount DECLINING at -6.4%/mo",
+        "reason": "Headcount DECLINING at -11.6%/mo",
         "severity": "alert"
       }
     ]
@@ -2583,10 +2575,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "AI",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2643,10 +2635,10 @@
     "fund": "III",
     "stage": "pre_seed",
     "category": "B2B Marketing",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2703,10 +2695,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "B2B Fintech",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2763,10 +2755,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "Proptech / AI",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2781,7 +2773,7 @@
       "analyst": {
         "score": 65,
         "evidence": [
-          "Headcount growing at 223.9%/mo (healthy for seed)"
+          "Headcount growing at 243.2%/mo (healthy for seed)"
         ],
         "sources": [
           "linkedin"
@@ -2825,10 +2817,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "AI",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2841,9 +2833,9 @@
         "match_confidence": null
       },
       "analyst": {
-        "score": 65,
+        "score": 55,
         "evidence": [
-          "Headcount growing at 8.1%/mo (healthy for seed)"
+          "Headcount flat/slow at 3.7%/mo"
         ],
         "sources": [
           "linkedin"
@@ -2887,10 +2879,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "AI / Commerce",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -2905,7 +2897,7 @@
       "analyst": {
         "score": 65,
         "evidence": [
-          "Headcount growing at 12.8%/mo (healthy for seed)"
+          "Headcount growing at 17.4%/mo (healthy for seed)"
         ],
         "sources": [
           "linkedin"
@@ -2949,10 +2941,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "Industrial",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
@@ -3009,10 +3001,10 @@
     "fund": "III",
     "stage": "seed",
     "category": "AI / Manufacturing",
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-28",
     "run": 7,
     "commit": "local",
-    "generated": "2026-09-21T13:02:37Z",
+    "generated": "2026-09-28T13:02:37Z",
     "coverage": "external_v0",
     "confidence": "low",
     "lanes": {
